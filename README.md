@@ -11,9 +11,11 @@
 
 ## Οδηγίες Χρήσης
 
-1. Επισκεφθείτε την ιστοσελίδα: https://t20terz.github.io/SkoteinosThalamos/
+1. Επισκεφθείτε την [ιστοσελίδα της εφαρμογής](https://t20terz.github.io/SkoteinosThalamos/) 
 2. Αφού δώσετε τις κατάλληλες άδειες που ζητούνται (χρήση κάμερας), σκανάρετε τα ειδικά markers που βρίσκονται στον χώρο του πανεπιστημίου.
 3. Ανάλογα με το marker που σκανάρατε, εμφανίζονται οι κατάλληλες οδηγίες.
+
+ Παράδειγμα Marker
  ![Screenshot](https://raw.githubusercontent.com/t20terz/SkoteinosThalamos/master/assets/targets/marker3.png)
 
 
